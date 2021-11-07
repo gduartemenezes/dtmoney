@@ -17,8 +17,8 @@ createServer({
         },
       ];
     });
-    this.post();
-    this.put();
+    // this.post();
+    // this.put();
   },
 });
 
